@@ -1,0 +1,14 @@
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\bin\Debug\net8.0\numbleGame.exe
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\bin\Debug\net8.0\numbleGame.deps.json
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\bin\Debug\net8.0\numbleGame.runtimeconfig.json
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\bin\Debug\net8.0\numbleGame.dll
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\bin\Debug\net8.0\numbleGame.pdb
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\numbleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\numbleGame.AssemblyInfoInputs.cache
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\numbleGame.AssemblyInfo.cs
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\numbleGame.csproj.CoreCompileInputs.cache
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\numbleGame.dll
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\refint\numbleGame.dll
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\numbleGame.pdb
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\numbleGame.genruntimeconfig.cache
+D:\Web development\Assesments\Etiqa\numbleGame\numbleGame\obj\Debug\net8.0\ref\numbleGame.dll
