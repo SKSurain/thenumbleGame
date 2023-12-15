@@ -18,7 +18,7 @@ An IDE such as Visual Studio or Visual Studio Code
 
 Installation
 
-1. git clone [URL to your repository]
+1. git clone https://github.com/SKSurain/thenumbleGame/edit/master/README.md
 2. Open the solution file (NumbleGame.sln) in Visual Studio or Visual Studio Code.
 3. Build the solution to resolve dependencies.
 
